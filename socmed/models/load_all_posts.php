@@ -11,11 +11,13 @@ $result= $con->query($sql);
 
 while($row= mysqli_fetch_assoc($result)){
     echo "<div class='account-post'>";
-       echo "<div class='account-name'>";
-         echo $row['firstname'];
+    echo "<div class='account-name'>";
+    echo $row['firstname'];
     echo "</div>";
-    echo "</div class='post_content'>";
-       echo $row['content'];
+    echo "<div class='post-content'>";
+    echo $row['content'];
     echo "</div>";
-echo "</div";
+    echo "</div>";
+    
+    
 }
