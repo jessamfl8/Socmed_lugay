@@ -1,0 +1,166 @@
+body{
+   
+    font-family: 'Calibri';
+    background-color:#8C7389;
+}        
+.registration-form{
+    background-color:#AD9BAB;
+    padding: 1em;
+    width: 30%;
+    margin: 2em auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 0px #00002577;
+}
+input{
+    display: block;
+    width: 90%;
+    margin: .5em auto;
+    padding: .5em;
+    margin-top: .1em;
+    border-radius: 5px;
+    border:solid 1px #ddeeff;
+}
+label{
+    font-size: .8em;
+}
+input[type='submit']{
+    background-color: #fd2e17;
+    color: #ffffff;
+    margin: auto 30px;
+    box-sizing: border-box;
+    overflow: hidden
+}
+input [type='submit']:hover{
+    background-color: #dd3333;
+    color: #ffffff;
+}
+.navbar{
+    background-color: #7C5F78;
+    box-shadow: 2px 2px 2px 0px #00002577;
+    text-align: center;
+        
+}
+.right-nav{
+    text-align: right;
+    display: inline-block;
+    width: 25%;
+    margin: 0px;
+}
+.right-nav li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 1em;
+}
+.right-nav li:hover{
+    background-color: #DAB8B7;
+}
+.right-nav li:active{
+    background-color: #DAB8B7;
+}
+.left-nav{
+    text-align: left;
+    display: inline-block;
+    width: 65%;
+    margin: 0px;
+}
+.left-nav li{
+    list-style-type: none;
+    display: inline-block;
+    padding:1em;
+}  
+.left-nav li:hover{
+    background-color: #f06292;
+}
+.left-nav li:active{
+    background-color: #adbecf;
+}
+.logo{
+    background-image: url('businesswoman.png');
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1em;
+}
+a{
+    text-decoration: none;
+    color: #00499c;
+}
+.title{
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    color: #000025;
+}
+alert{
+    font-size: 8em;
+    font-weight: bold;
+    text-align: center;
+    color: #f05555;
+}
+.container{
+    width: 90%;
+    overflow: hidden;
+    position: relative;
+    margin: auto;
+    margin-top: 15px;
+    background-color: #ddeeff;
+    min-height: 40vh;
+}
+.banner{
+    min-height: 40vh;
+    position: relative;
+    background-image: url('sunset.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.profile-pic{
+    background-color: #ffffff;
+    width: 20vh;
+    height: 20vh;
+    border-radius: 100px;
+    position: absolute;
+    top: 10vh;
+    left: 10vh;
+    background-image: url('estetik.jpg');
+    background-position: center;
+    
+}
+#name{
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    top: 15vh;
+    left: 33vh;
+    font-size: 2em;
+    color: #fff;
+    
+}
+.post-container{
+    width: 100%;
+    margin: auto;
+    margin-top: 10vh;
+}
+#post{
+    width: 100%;
+    margin: 10px auto;
+    box-sizing: border-box;
+}
+
+#post-area{
+    width: 90%;
+    height: 3em;
+    resize: none;
+    margin: auto 30px;
+    box-sizing: border-box;
+   overflow: hidden;
+}
+.account-post{
+    border: .1em solid;
+    border-color: #00499c;
+    margin: .5em;
+    padding: 1em;
+}
+.account-name{
+    font-weight: bold;
+}

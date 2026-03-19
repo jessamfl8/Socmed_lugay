@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/socmed/db/dbconnect.php</file>
+            <file>file:/C:/xampp/htdocs/socmed/models/register_account.php</file>
+            <file>file:/C:/xampp/htdocs/socmed/views/res/style.css</file>
+            <file>file:/C:/xampp/htdocs/socmed/views/header.php</file>
+            <file>file:/C:/xampp/htdocs/socmed/views/footer.php</file>
+            <file>file:/C:/xampp/htdocs/socmed/login.php</file>
+            <file>file:/C:/xampp/htdocs/socmed/models/login_account.php</file>
+            <file>file:/C:/xampp/htdocs/socmed/index.php</file>
+            <file>file:/C:/xampp/htdocs/socmed/profile.php</file>
+            <file>file:/C:/xampp/htdocs/socmed/models/logout_account.php</file>
+            <file>file:/C:/xampp/htdocs/socmed/views/res/bannerbg.jpg</file>
+            <file>file:/C:/xampp/htdocs/socmed/jessa_im</file>
+            <file>file:/C:/xampp/htdocs/socmed/models/add_post.php</file>
+            <file>file:/C:/xampp/htdocs/socmed/views/res/timeline.php</file>
+            <file>file:/C:/xampp/htdocs/socmed/models/load_all_posts.php</file>
+            <file>file:/C:/xampp/htdocs/socmed/views/res/logo.png</file>
+            <file>file:/C:/xampp/htdocs/socmed/nbproject/project.properties</file>
+            <file>file:/C:/xampp/htdocs/socmed/nbproject/project.xml</file>
+            <file>file:/C:/xampp/htdocs/socmed/models/load_accounnt_posts.php</file>
+        </group>
+    </open-files>
+</project-private>
